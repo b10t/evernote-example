@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 - *-
 from evernote.api.client import EvernoteClient
 
 from config import Settings
